@@ -16,7 +16,7 @@ actor Challenges {
 
     // challenge 3
     public query func days_to_second(_n: Nat) : async Nat {
-        return _n * 3600;
+        return _n * 24 * 3600;
     };
 
     // challenge 4
