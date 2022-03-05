@@ -1,0 +1,10 @@
+{
+    "version" :1,
+    "canisters" : {
+        "Challenges" :{
+            "main" : "./day_1/main.mo",
+            "type": "motoko"
+        }
+    }
+
+}
