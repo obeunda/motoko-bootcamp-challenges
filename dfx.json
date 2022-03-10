@@ -1,8 +1,8 @@
 {
     "version" :1,
     "canisters" : {
-        "day_3" :{
-            "main" : "./day_3/main.mo",
+        "day_4" :{
+            "main" : "./day_4/main.mo",
             "type": "motoko"
         }
     }
