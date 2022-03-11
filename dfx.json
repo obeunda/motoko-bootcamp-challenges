@@ -1,6 +1,22 @@
 {
     "version" :1,
     "canisters" : {
+        "day_1" :{
+            "main" : "./day_1/main.mo",
+            "type": "motoko"
+        },
+        "day_2" :{
+            "main" : "./day_2/main.mo",
+            "type": "motoko"
+        },
+        "day_3" :{
+            "main" : "./day_3/main.mo",
+            "type": "motoko"
+        },
+        "day_4" :{
+            "main" : "./day_4/main.mo",
+            "type": "motoko"
+        },
         "day_5" :{
             "main" : "./day_5/main.mo",
             "type": "motoko"
@@ -11,6 +27,14 @@
         },
         "upgrade" :{
             "main" : "./day_5/upgrade.mo",
+            "type": "motoko"
+        },
+        "day_6" :{
+            "main" : "./day_6/main.mo",
+            "type": "motoko"
+        },
+        "wallet" :{
+            "main" : "./day_6/wallet.mo",
             "type": "motoko"
         }
     }
