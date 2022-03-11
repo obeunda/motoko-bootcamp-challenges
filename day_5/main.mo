@@ -74,7 +74,7 @@ actor day_5 {
     };
 
     public query func get_version_number(): async Nat {
-        return version_number;q
+        return version_number;
     };
 
     // Challenge 10 see upgrade.mo
