@@ -4,6 +4,14 @@
         "day_5" :{
             "main" : "./day_5/main.mo",
             "type": "motoko"
+        },
+        "ledger" :{
+            "main" : "./day_5/ledger.mo",
+            "type": "motoko"
+        },
+        "upgrade" :{
+            "main" : "./day_5/upgrade.mo",
+            "type": "motoko"
         }
     }
 
